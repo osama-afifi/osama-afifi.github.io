@@ -5,31 +5,31 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/archive.html</loc>
+  <loc>http://osama-afifi.github.io/archive.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/index.html</loc>
+  <loc>http://osama-afifi.github.io/categories/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/index.html</loc>
+  <loc>http://osama-afifi.github.io/galleries/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/rss.xml</loc>
+  <loc>http://osama-afifi.github.io/galleries/rss.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/index.html</loc>
+  <loc>http://osama-afifi.github.io/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/listings/index.html</loc>
+  <loc>http://osama-afifi.github.io/listings/index.html</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
  <url>
-  <loc>http://getnikola.com/rss.xml</loc>
+  <loc>http://osama-afifi.github.io/rss.xml</loc>
   <lastmod>2014-05-16</lastmod>
  </url>
 </urlset>
